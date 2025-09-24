@@ -51,16 +51,15 @@ Consistent layout across all pages.
  ├── contact.html        # Contact form page
  ├── /css/styles.css     # All styles
  ├── /js/script.js       # Interactivity + validation
- ├── /images/            # Images and assets
  └── README.md           # Project documentation
 
 🚀 Deployment
 
 This project is deployed at:
-👉 Live Site URL
+👉 Live Site URL: https://vercel.com/mercy-js-projects-ece586c6/july2025-final-project-mercy-nyambura
 
 Code Repository:
-👉 GitHub Repo
+👉 GitHub Repo: https://github.com/MercyNyambura/July2025-finalProject-MercyNyambura.git
 
 🛠️ Tech Stack
 
