@@ -1,90 +1,73 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+AI Study Buddy – Multipage Website
+📌 Project Purpose
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+This project is a multipage responsive website built using HTML5, CSS3, and JavaScript. It showcases the idea of AI Study Buddy, a learning platform designed to support underprivileged African students who face financial and transport barriers to accessing traditional education.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+The website demonstrates skills in:
 
----
+Semantic HTML5 structure
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+CSS3 styling, animations, and responsiveness
 
-Before you write any code, take time to plan:
+JavaScript for interactivity (form validation, dynamic UI effects)
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Deployment using GitHub Pages / Netlify / Vercel
 
-**Goal:** Show intentional structure and user journey across the site.
+🗂️ Website Structure
 
----
+The site has 4 main pages:
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+Home – Introduction to AI Study Buddy, mission, and call-to-action.
 
-Using your plan, begin building:
+About – Background story and why the project matters.
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+Services – Features of AI Study Buddy (affordable learning, accessibility, AI support).
 
-Each page should:
+Contact – Contact form with validation (JS).
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+🔗 Navigation
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+All pages include a header with navigation links and a footer with contact info.
 
----
+🎨 Features
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+Responsive design (mobile-first, works on different screen sizes).
 
-Before deployment, refactor your project to follow production-friendly practices:
+CSS animations & transitions (hover effects, smooth transitions).
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+JavaScript interactivity:
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+Form validation on the Contact page
 
----
+Toggle effects / dynamic content
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Consistent layout across all pages.
 
-Once your project is complete, choose a method to **host your site online**.
+📁 Project Structure
+/project-folder
+ ├── index.html          # Home page
+ ├── about.html          # About page
+ ├── services.html       # Services/Features page
+ ├── contact.html        # Contact form page
+ ├── /css/styles.css     # All styles
+ ├── /js/script.js       # Interactivity + validation
+ ├── /images/            # Images and assets
+ └── README.md           # Project documentation
 
-You can use:
+🚀 Deployment
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+This project is deployed at:
+👉 Live Site URL
 
-Deploy your project and confirm that:
+Code Repository:
+👉 GitHub Repo
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+🛠️ Tech Stack
 
-**Goal:** Publish your work online and make it accessible to the world.
+HTML5 – Semantic markup
 
----
+CSS3 – Styling, layout, responsiveness
 
-## Deliverables
+JavaScript – Interactivity & DOM manipulation
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Deployment – Vercel
